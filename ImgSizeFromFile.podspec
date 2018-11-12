@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "ImgSizeFromFile"
-  s.version      = "0.1.0"
+  s.version      = "0.2.0"
   s.summary      = "A short description of ImgSizeFromFile."
   s.description  = "get image file type form source file data"
   s.homepage     = "https://github.com/JAKILL1997/ImgSizeFromFile.git"
