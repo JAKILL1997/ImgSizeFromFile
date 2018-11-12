@@ -227,7 +227,7 @@
 		526E0FD41D796D4F0022DFAB /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0730;
+				LastUpgradeCheck = 1000;
 				ORGANIZATIONNAME = wangdan;
 				TargetAttributes = {
 					526E0FDB1D796D4F0022DFAB = {
@@ -528,6 +528,7 @@
 				526E100B1D796D4F0022DFAB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		526E100C1D796D4F0022DFAB /* Build configuration list for PBXNativeTarget "GetImageSizeFromFileTests" */ = {
 			isa = XCConfigurationList;
@@ -536,6 +537,7 @@
 				526E100E1D796D4F0022DFAB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		526E100F1D796D4F0022DFAB /* Build configuration list for PBXNativeTarget "GetImageSizeFromFileUITests" */ = {
 			isa = XCConfigurationList;
@@ -544,6 +546,7 @@
 				526E10111D796D4F0022DFAB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
