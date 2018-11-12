@@ -28,7 +28,7 @@
     }
     
     NSData *headData = [fileHandler readDataOfLength:8];
-    if (!headData.length == 8) {
+    if (headData.length != 8) {
         [fileHandler closeFile];
         return HBImageTypeUnKnow;
     }
